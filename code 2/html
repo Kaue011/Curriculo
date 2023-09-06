@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Currículo</title>
+</head>
+<body>
+    <header>
+      <h1>Kauê da Conceição Alves</h1>
+    </header>
+    <main>
+      <section class="dados-pessoais">
+        <h2>Dados Pessoais</h2>
+        <ul>
+          <li>Nome: Kauê da Conceição Alves</li>
+          <li>Endereço: Paraiba do Sul, RJ</li>
+          <li>Telefone: 24992540949</li>
+          <li>E-mail: Kauealveszin@gamil.com</li>
+        </ul>
+      </section>
+      <section class="educacao">
+        <h2>Educação</h2>
+        <ul>
+          <li>Graduação em Engenharia de software, Universidade de Vassouras, 2023</li>
+        </ul>
+      </section>
+      <section class="experiência">
+        <h2>Experiência profissional</h2>
+        <ul>
+       <h1>Nao tenho experiência</h1>
+        </ul>
+      </section>
+      <section class="habilidades">
+        <h2>Habilidades</h2>
+        <ul>
+          <li>Linguagens de programação: Python</li>
+          <li>Frameworks: </li>
+          <li>Ferramentas: </li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright © 2023</p>
+    </footer>
+  </body>
+</html>
